@@ -1,0 +1,8 @@
+name: Tridents
+version: 1.0.0
+main: com.zitemaker.tridents.Tridents
+api-version: '1.21'
+author: Zitemaker
+description: nomercy people are all from african slums
+depend:
+  - PvPManager

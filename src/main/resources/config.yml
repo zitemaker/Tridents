@@ -1,0 +1,19 @@
+durability:
+  # the amount of durability damage to take for each trident jump, vanilla default is 1.
+  damage-per-jump: 3.75
+
+  # how much EXTRA damage is added for each level of riptide enchant
+  # for example:  if set to 0.5, riptide 3 will take 1.5 extra damage
+  extra-damage-per-riptide-level: 0.0
+
+  # should the unbreaking enchantment randomly prevent this durability loss?
+  # (true = works like standard minecraft unbreaking)
+  unbreaking-prevents-damage: true
+
+hunger:
+  # how much exhaustion is added to the player when they jump with riptide?
+  # (minecraft removes half a drumstick of food for every 4.0 exhaustion)
+  exhaustion-per-jump: 1.0
+
+  # how much EXTRA exhaustion is added for each level of the riptide enchantment?
+  extra-exhaustion-per-riptide-level: 0.5
